@@ -1,0 +1,7 @@
+digraph G {
+  node [shape=box]
+  I1 [shape=plaintext]
+  node [shape=circle]
+  x1
+  I1 -> x1 [dir=none]
+}

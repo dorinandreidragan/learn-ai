@@ -1,0 +1,8 @@
+jupyter-book
+matplotlib
+numpy
+sphinxcontrib-mermaid
+sphinxemoji
+emoji
+graphviz
+sphinxcontrib-tikz
